@@ -1,0 +1,40 @@
+.post {
+    width: 100%;
+    height: auto;
+    font-family: 'Roboto', sans-serif;
+    font-size: small;
+}
+
+.post-header {
+    background-color: white;
+    padding: 5px;
+    display: flex;
+    justify-content: space-between;
+}
+
+.icons-left {
+    display: flex;
+}
+
+.rigoberto {
+    padding-left: 7px;
+}
+
+img {
+    width: 100%;
+}
+
+.post-body {
+    background-color: white;
+    padding: 5px;
+}
+
+.post-icons {
+    display: flex;
+    justify-content: space-between;
+}
+
+.posttext {
+    width: 100%;
+    padding: 5px;
+}
